@@ -1,1 +1,3 @@
 This is a test file created in the local machine.
+
+The file is edited on the remote repository using GitHub.
